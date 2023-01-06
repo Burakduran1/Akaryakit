@@ -1,0 +1,2 @@
+kullanıcı adı: admin şifre;12345
+kullanıcı adı: personel şifre;
